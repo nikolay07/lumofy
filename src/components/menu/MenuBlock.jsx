@@ -6,6 +6,7 @@ const MenuBlock = ({ name, image }) => {
     <div className="menu-block">
       <img src={image} alt="icon" />
       <span className="menu-block_text">{name}</span>
+
     </div>
   );
 };
