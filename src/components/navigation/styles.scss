@@ -1,0 +1,14 @@
+.navigation-block {
+  padding-left: 40px;
+
+  span {
+    display: inline-block;
+    font-size: 14px;
+  }
+  span:last-child {
+    font-weight: 600;
+  }
+  .arrow {
+    margin: 0 10px 0 10px;
+  }
+}
